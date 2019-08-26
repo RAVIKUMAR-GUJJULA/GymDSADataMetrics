@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gymdsadatametrics"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "GymDSADataMetrics",
+    "packageName": "com.gymdsadatametrics",
+    "packageFolder": "com/gymdsadatametrics",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjZlYjIzZjNkYjVhNTNkYzEyMjQyYjY4NzczYmY3NzFhMjZlNjk4OTkzNTE1ODU1ZWQyYjI4YzI2NWQwNTMyZjgzMjIxNWNhM2QxZDNiOWExNTE3M2QwYjczYmZhYTBmOTA1ODBmYjliZmEyNWRkNjlhMmU2YjkxY2Q5MDExY2I=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
